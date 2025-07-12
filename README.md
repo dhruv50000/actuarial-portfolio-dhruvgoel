@@ -7,7 +7,7 @@ Welcome! This repository links to my actuarial and statistical modeling projects
 ## Featured Projects
 
 - [Marine Liability Pricing Model](https://github.com/dhruv50000/marine-liability-pricing-model)
-- [Study Behavior DOE Experiment](https://github.com/ydhruv50000/study-concentration-doe-model)
+- [Study Behavior DOE Experiment](https://github.com/dhruv50000/study-concentration-doe-model)
 - [TSA Forecasting of India’s Inflation](https://github.com/dhruv50000/tsa-india-inflation)
 - [Insurance Reserving Model](https://github.com/dhruv50000/insurance-reserving-model)
 
